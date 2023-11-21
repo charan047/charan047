@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on Graph Machine Learning!<br>🌱I'm currently learning <br>                        -> Graph Machine Learning<br>💻 Ask me about DS and ML projects<br>
+🔭I'm currently working on Machine Learning!<br>🌱I'm currently learning <br>                        -> Machine Learning and Front End Technologies<br>💻 Ask me about DS and AI/ML projects<br>
 
 
 ## 🌐 Socials:
