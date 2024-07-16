@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on Machine Learning!<br>🌱I'm currently learning <br>                        -> Machine Learning and Front End Technologies<br>💻 Ask me about DS and AI/ML projects<br>
+🔭I'm currently working on Artificial Intelligence and Machine Learning Technologies!<br>🌱I'm currently learning <br>                        -> Machine Learning and Front End Technologies<br>💻 Ask me about DS and AI/ML projects<br>
 
 
 ## 🌐 Socials:
