@@ -40,6 +40,16 @@
 
 ---
 
+## ⭐ Featured Project
+### **AskDB — Natural Language → SQL → Business Insight**
+An analytics copilot that turns plain-English questions into **safe, explainable SQL** with **proof-first results** (Answer + SQL + preview rows) — including a **rollback sandbox** for zero-risk “what-if” changes.
+
+- **Live Demo:** https://ask-db.vercel.app  
+- **Repo:** https://github.com/charan047/AskDB  
+- **Highlights:** BYODB (connect your DB), schema auto-detection, SQL guardrails (SELECT-only + rollback sandbox), caching/observability hooks, guided demo onboarding
+
+---
+
 ## 📌 Highlights
 - Built end-to-end applications with **React + Spring Boot + SQL** (auth, APIs, dashboards)
 - Optimized database queries and schema (indexes, joins) for **performance + scalability**
@@ -55,4 +65,3 @@
     height="170"
   />
 </p>
-
