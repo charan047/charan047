@@ -58,10 +58,4 @@ An analytics copilot that turns plain-English questions into **safe, explainable
 ---
 
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=charan047&theme=transparent&hide_border=true"
-    alt="GitHub streak"
-    height="170"
-  />
-</p>
+
