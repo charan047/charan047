@@ -5,8 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:0B1220,100:0F172A&text=Charan%20Kumar%20Edukulla&fontSize=34&fontColor=E5E7EB&fontAlignY=48&desc=Full-Stack%20%7C%20Backend%20%7C%20AI%2FML&descAlignY=72&descSize=14" />
 
 <p>
-  <a href="https://charan047.github.io/portfolio/" target="_blank"><b>🌐 Portfolio</b></a>
-  &nbsp;•&nbsp;
+
   <a href="https://www.linkedin.com/in/edukulla-charan-kumar-1a3197211/" target="_blank"><b>💼 LinkedIn</b></a>
 </p>
 
