@@ -25,8 +25,6 @@
 
 ---
 
-## 🚀 Live Portfolio
-**🔗 https://charan047.github.io/portfolio/**
 
 ---
 
