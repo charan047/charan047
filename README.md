@@ -1,9 +1,7 @@
 <!-- charan047 • GitHub Profile -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:0B1220,100:0F172A&text=Charan%20Kumar%20Edukulla&fontSize=34&fontColor=E5E7EB&fontAlignY=48&desc=Full-Stack%20%7C%20Backend%20%7C%20AI%2FML&descAlignY=72&descSize=14" />
-<p>
-  <a href="https://www.linkedin.com/in/edukulla-charan-kumar-1a3197211/" target="_blank"><b>💼 LinkedIn</b></a>
-</p>
+
 <p>
   I build production-ready software — clean React UX, scalable Spring Boot APIs, cloud deployments,
   and ML-powered features. I care about <b>performance</b>, <b>reliability</b>, and shipping polished experiences.
@@ -22,7 +20,7 @@
 
 ---
 
-## 🧰 Tech Stack (quick, clean)
+## 🧰 Tech Stack 
 
 **Languages:** Java • Python • TypeScript • JavaScript • SQL • C++  
 **Frontend:** React • Next.js • Tailwind  
